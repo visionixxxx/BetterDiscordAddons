@@ -16,7 +16,7 @@ module.exports = (_ => {
 	const config = {
 		"info": {
 			"name": "ShowHiddenChannels",
-			"author": "DevilBro",
+			"author": "SAG",
 			"version": "3.0.1",
 			"description": "Displays all hidden Channels, which can't be accessed due to Role Restrictions, this won't allow you to read them (impossible)"
 		},
